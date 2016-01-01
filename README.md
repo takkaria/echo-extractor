@@ -1,2 +1,7 @@
 # echo-extractor
-Bookmarklet to extract event data from websites for use on Echo
+
+A chrome extension to extract event data from websites for use on Echo.
+
+Currently supported:
+- Facebook
+- Eventbrite
